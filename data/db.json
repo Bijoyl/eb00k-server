@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "I Know Why The Caged Bird Sings by Maya Angelou",
+      "overview": "I Know Why the Caged Bird Sings, the first of seven autobiographical works by American writer Maya Angelou, published in 1969. The book chronicles her life from age 3 through age 16, recounting an unsettled and sometimes traumatic childhood that included rape and racism. It became one of the most widely read and taught books written by an African American woman.",
+      "long_description": "The prologue describes an event in which Angelou, as a small child, is reciting a poem in church. Feeling ugly because she imagined in vain that the dress her grandmother made her would be so pretty that she would be seen as a beautiful white child, she forgets the poem and then wets her pants as she flees the church in embarrassment. The story begins in 1931, as Maya, age three, and her elder brother, Bailey, are sent to Stamps, Arkansas, to live with their paternal grandmother, whom they call Momma, after their parents’ breakup. Momma owns the only store in the African American part of town. The children settle into life with Momma, helping her at the store and learning to read and do arithmetic. One night a former sheriff warns Momma to hide her disabled son because white men are planning revenge after a Black man “messed with” a white woman. Later a group of young white girls ridicule Momma while she stands, dignified and unmoving, outside the store. When the Great Depression hits, Momma keeps the store from going under by allowing customers to trade their rations for goods. One Christmas, Maya and Bailey receive gifts from their parents, whom they assumed to be dead. A year later their father, Daddy Bailey, arrives in a fancy car, and he takes Maya and Bailey to St. Louis to live with their mother, the beautiful Vivian.",
+      "price": 8.34,
+      "poster": " ",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10002,
+      "name": "East of Eden by John Steinbeck",
+      "overview": "East of Eden is a novel by American author and Nobel Prize winner John Steinbeck. Published in September 1952, the work is regarded by many to be Steinbeck's most ambitious novel and by Steinbeck himself to be his magnum opus.",
+      "long_description": "East of Eden, novel by John Steinbeck, published in 1952. It is a symbolic re-creation of the biblical story of Cain and Abel woven into a history of California’s Salinas Valley. With East of Eden Steinbeck hoped to reclaim his standing as a major novelist, but his broad depictions of good and evil come at the expense of subtlety in characterization and plot and it was not a critical success. Spanning the period between the American Civil War and the end of World War I, the novel highlights the conflicts of two generations of brothers, the first being the kind, gentle Adam Trask and his wild brother Charles. Adam eventually marries Cathy Ames, an evil, manipulative, and beautiful prostitute; she betrays him, joining Charles on the very night of their wedding. Later, after giving birth to twin boys, she shoots Adam and leaves him to return to her former profession. In the shadow of this heritage Adam raises their sons, the fair-haired, winning, yet intractable Aron and the dark, clever Caleb. This second generation of brothers vie for their father’s approval. In bitterness Caleb reveals the truth about their mother to Aron, who then joins the army and is killed in France.",
+      "price": 8.3,
+      "poster": " ",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 0,
+      "best_seller": true
+    },
+    {
+      "id": 10003,
+      "name": "The Sun Also Rises by Ernest Hemingway",
+      "overview": "The Sun Also Rises, first major novel by Ernest Hemingway, published in 1926. Titled Fiesta in England, the novel captures the moods, feelings, and attitudes of a hard-drinking, fast-living group of disillusioned expatriates in postwar France and Spain.",
+      "long_description": "The Sun Also Rises follows a group of young American and British expatriates as they wander through Europe in the mid-1920s. They are all members of the cynical and disillusioned Lost Generation, who came of age during World War I (1914–18). Two of the novel’s main characters, Lady Brett Ashley and Jake Barnes, typify the Lost Generation. Jake, the novel’s narrator, is a journalist and World War I veteran. During the war Jake suffered an injury that rendered him impotent. (The title obliquely references Jake’s injury and what no longer rises because of it.) After the war Jake moved to Paris, where he lives near his friend, the Jewish author Robert Cohn. Jake’s former lover, Brett, also lives in Paris. Jake and Brett met and fell in love during the war, when Brett, a volunteer nurse, helped treat Jake’s injuries. Although it is not said explicitly, it is implied that they are not together because Jake is impotent and Brett unwilling to give up sex. When Cohn confesses his romantic interest in Brett to Jake, Jake cautions him against pursuing a relationship with Brett, who is engaged to be married to Mike Campbell, a Scottish war veteran. Both Brett and Cohn eventually leave Paris: Brett sets off for San Sebastian (a small beach town in Spain) and Cohn for the countryside.",
+      "price": 46,
+      "poster": " ",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10004,
+      "name": "Do Androids Dream of Electric Sheep? by Philip K. Dick",
+      "overview": "Dick’s novels are a continual and sometimes surprising source of inspiration for Hollywood. Total Recall (1990; from the 1966 short story “We Can Remember It for You Wholesale”), Minority Report (2002), Paycheck (2003), and A Scanner Darkly (2006) have all graced blockbuster screens. The complexities of Do Androids Dream of Electric Sheep? inspired Ridley Scott’s groundbreaking Blade Runner (1982), but, as extraordinary as the movie is, it remains a pale shade of the text.",
+      "long_description": "Do Androids Dream of Electric Sheep? questions the nature of humanity through the figure of Rick Deckard, a man who hunts “replicants”—androids designed to be “more human than human.” The nominal “sheep” of the title is an artificial creation that dies through Deckard’s neglect, a source of intense shame to him. This lack of empathy, fundamental to Dick’s distinction between human and replicant, suggests the interminably argued point that Deckard himself may be one of the replicants he hunts. Deckard’s growing ethical confusion about “retiring” the replicants is highlighted by the book’s extension into the quasi-religious undertones of persuasion and vicarious empathy. The religion of Mercerism—from which replicants are prohibited—is a typical Dick invention. Mercer is a false idol, and Do Androids Dream of Electric Sheep? not only asks what it means to be human, but it also, in an expression of Dick’s philosophy, questions the viability of reality itself.",
+      "price": 9.9,
+      "poster": " ",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "The Curious Incident of the Dog in the Night-Time by Mark Haddon",
+      "overview": "The Curious Incident of the Dog in the Night-Time, children’s book by British author Mark Haddon, published in 2003.",
+      "long_description": "Mathematical genius Christopher Boone is 15 and has Asperger syndrome (a form of autism in which everything is overwhelming because of a lack of mental and emotional filters). One night, he discovers his neighbour’s poodle, Wellington, impaled on a garden fork. Wrongly blamed for the killing, he decides to imitate one of his literary heroes, Sherlock Holmes, and investigate the murder using similar deductive logic, and to write about it as he does so. During his investigation, he also uncovers facts closer to home and, believing himself to be in danger from the killer, runs away to London. Haddon’s work with people who have Asperger syndrome means that he is able to portray Christopher's worldview in accurate, believable detail, understanding what it is like to be terrified of yellow or of shaking hands but not to be aware of, or disturbed by, the danger of being on the tracks in front of an underground train.",
+      "price": 7.85,
+      "poster": " ",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Cloudy with a Chance of Meatballs by Judi Barrett ",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 8.02,
+      "poster": " ",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 3,
+      "in_stock": false,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Pride and Prejudice and Zombies by Seth Grahame-Smith",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 11.75,
+      "poster": " ",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 0,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10008,
+      "name": "The House of Mirth by Edith Wharton",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 3.99,
+      "poster": " ",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10009,
+      "name": "Are You There, Vodka? It's Me, Chelsea by Chelsea Handler",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 2.77,
+      "poster": " ",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": true
+    },
+    {
+      "id": 10010,
+      "name": "And Then There Were None by Agatha Christie",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 7.69,
+      "poster": " ",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Their Eyes Were Watching God by Zora Neale Hurston",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "xxxxx",
+      "price": 9.19,
+      "poster": " ",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10012,
+      "name": "The Devil Wears Prada by Lauren Weisberger",
+      "overview": "The Devil Wears Prada is a 2003 novel by Lauren Weisberger about a young woman who is hired as a personal assistant to a powerful fashion magazine editor, a job that becomes nightmarish as she struggles to keep up with her boss's grueling schedule and demeaning demands.",
+      "long_description": "Around Christmas of 1999, Lauren Weisberger rolled into the Vogue office. She had just graduated from Cornell, and editor-in-chief Anna Wintour decided to hire her as her assistant. However, quickly there were worrying signs that Weisberger wasn’t going to work out, the biggest being that she clearly wanted to be a writer. Assisting Anna wasn’t about being a journalist, it was about delivering hot lattes quickly in high heels. Predictably, Weisberger “couldn’t get any assignments from us,” said Laurie Jones, the managing editor at the time. Weisberger was “a lovely girl,” she added, but “not a great writer, poor thing.” After being on the job for months, Weisberger asked Richard David Story, an editor who was leaving Vogue for Departures magazine, if she could go be his assistant there. He was amenable and she went with him. Reading her material, Story later told her to get writing lessons. Following his advice, Weisberger enrolled in a creative writing course and, as could have been predicted, started writing a novel about what she knew, as writing teachers often suggest, and what she thought would be most interesting to others, which was assisting Anna Wintour. Her instructor asked to show her material to a book agent, Deborah Schneider, and she said yes even though she was far from a complete draft. Schneider called and said, “If she wants to sell this book, I can sell it this afternoon. On May 21, 2002, Women’s Wear Daily reported that The Devil Wears Prada had sold to Doubleday for a reported $250,000. When Anna learned about the book, she said to Jones, “I cannot remember who that girl is.”",
+      "price": 7.96,
+      "poster": " ",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Brave New World by Aldous Huxley",
+      "overview": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum).",
+      "long_description": "Brave New World is set in 2540 CE, which the novel identifies as the year AF 632. AF stands for “after Ford,” as Henry Ford’s assembly line is revered as god-like; this era began when Ford introduced his Model T. The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum). Huxley begins the novel by thoroughly explaining the scientific and compartmentalized nature of this society, beginning at the Central London Hatchery and Conditioning Centre, where children are created outside the womb and cloned in order to increase the population. The reader is then introduced to the class system of this world, where citizens are sorted as embryos to be of a certain class. The embryos, which exist within tubes and incubators, are provided with differing amounts of chemicals and hormones in order to condition them into predetermined classes. Embryos destined for the higher classes get chemicals to perfect them both physically and mentally, whereas those of the lower classes are altered to be imperfect in those respects. These classes, in order from highest to lowest, are Alpha, Beta, Gamma, Delta, and Epsilon. The Alphas are bred to be leaders, and the Epsilons are bred to be menial labourers.",
+      "price": 8.08,
+      "poster": " ",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Bury My Heart at Wounded Knee by Dee Brown",
+      "overview": "During the US expansion into Indian Territory, a doctor, an Indian chief and a senator deal with the upheaval. While the chief fights for his people, the senator ensures a humane treatment for them.",
+      "long_description": "Do you know how the American West was won? Do you think that the American West was won, even? Because, for a lot of people, it wasn't. This is the story told by Dee Brown, it's the story of the people for whom the West was lost. It's the story of the American Indian peoples. (I'm saying Indian, not Native American because that is the term used by Dee Brown. Bury My Heart At Wounded Knee was published in 1971 - I think before we all became so careful about the terms we use). The Wild West. Is that how you think of it? Do you think of Billy the Kid, of Wanted posters, of gunfights? Or of prospecting for gold? Or of pioneers, wagon trains and homesteaders? Dee Brown wrote Bury My Heart At Wounded Knee thirty years ago. He wrote it to put different people in your mind's eye. He wrote it to redress the balance, if you like. This is the story of the Sioux, the Apache, the Navaho and the Comanche, the story of Sitting Bull, of Crazy Horse, of Geronimo and Chief Joseph. It's painstakingly researched and incredibly detailed but it's not dull. Brown has found the words of the native peoples of America from journals, court transcripts and from treaties and tied them into an historical narrative. And articulate words they are too. full of the beautiful and expressive imagery of an oral people. Bury My Heart At Wounded Knee opens with Columbus and the early English settlers. Let's see how the Indians began to lose the West. It's about the concept of ownership really. Some of the first Indian land was ceded in 1625 by Samoset of the Pemaquid in what is now called New England. Samoset knew that land came from the Great Spirit, was as endless as the sky, and belonged to no man. To humour these strangers in their strange ways, however, he went through a ceremony of transferring the land and made his mark on a paper for them.",
+      "price": 10.11,
+      "poster": " ",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10015,
+      "name": "The Man Who Was Thursday by G.K. Chesterton",
+      "overview": "G.K. Chesterton's ​The Man Who Was Thursday is a thrilling novel of deception, subterfuge, double-crossing and secret identities, and this Penguin Classics edition is edited with an introduction by Matthew Beaumont.",
+      "long_description": "The Central Anarchist Council is a secret society sworn to destroy the world. The council is governed by seven men, who hide their identities behind the names of the days of the week. Yet one of their number - Thursday - is not the revolutionary he claims to be, but a Scotland Yard detective named Gabriel Syme, sworn to infiltrate the organisation and bring the architects of chaos to justice. But when he discovers another undercover policeman on the Council, Syme begins to question his role in their operations. And as a desperate chase across Europe begins, his confusion grows, as well as his confidence in his ability to outwit his enemies, unravelling the mysteries of human behaviour and belief in a thrilling contest of wits. But he has still to face the greatest terror that the Council has: a man named Sunday, whose true nature is worse than Syme could ever have imagined .",
+      "price": 4.88,
+      "poster": " ",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10013,
+      "name": "Brave New World by Aldous Huxley",
+      "overview": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum).",
+      "long_description": "Brave New World is set in 2540 CE, which the novel identifies as the year AF 632. AF stands for “after Ford,” as Henry Ford’s assembly line is revered as god-like; this era began when Ford introduced his Model T. The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum). Huxley begins the novel by thoroughly explaining the scientific and compartmentalized nature of this society, beginning at the Central London Hatchery and Conditioning Centre, where children are created outside the womb and cloned in order to increase the population. The reader is then introduced to the class system of this world, where citizens are sorted as embryos to be of a certain class. The embryos, which exist within tubes and incubators, are provided with differing amounts of chemicals and hormones in order to condition them into predetermined classes. Embryos destined for the higher classes get chemicals to perfect them both physically and mentally, whereas those of the lower classes are altered to be imperfect in those respects. These classes, in order from highest to lowest, are Alpha, Beta, Gamma, Delta, and Epsilon. The Alphas are bred to be leaders, and the Epsilons are bred to be menial labourers.",
+      "price": 8.08,
+      "poster": " ",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Bury My Heart at Wounded Knee by Dee Brown",
+      "overview": "Using council records, autobiographies, and firsthand descriptions, the author allows the great chiefs and warriors of Dakota, Utes, Sioux and other tribes to tell us in their own words of the battles, massacres and broken treaties that finally left the American Indians beaten.",
+      "long_description": "The American West, 1860-1890: years of broken promises, disillusionment, war and massacre. Beginning with the Long Walk of the Navajos and ending with the massacre of Sioux at Wounded Knee, this extraordinary book tells how the American Indians lost their land, lives and liberty to white settlers pushing westward. Woven into a an engrossing saga of cruelty, treachery and violence are the fascinating stories of such legendary figures as Sitting Bull, Cochise, Crazy Horse and Geronimo.First published in 1970, Dee Brown's brutal and compelling narrative changed the way people thought about the original inhabitants of America, and focused attention on a national disgrace.",
+      "price": 10.11,
+      "poster": " ",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10015,
+      "name": "The Man Who Was Thursday by G.K. Chesterton",
+      "overview": "G.K. Chesterton's ​The Man Who Was Thursday is a thrilling novel of deception, subterfuge, double-crossing and secret identities, and this Penguin Classics edition is edited with an introduction by Matthew Beaumont.",
+      "long_description": "The Central Anarchist Council is a secret society sworn to destroy the world. The council is governed by seven men, who hide their identities behind the names of the days of the week. Yet one of their number - Thursday - is not the revolutionary he claims to be, but a Scotland Yard detective named Gabriel Syme, sworn to infiltrate the organisation and bring the architects of chaos to justice. But when he discovers another undercover policeman on the Council, Syme begins to question his role in their operations. And as a desperate chase across Europe begins, his confusion grows, as well as his confidence in his ability to outwit his enemies, unravelling the mysteries of human behaviour and belief in a thrilling contest of wits. But he has still to face the greatest terror that the Council has: a man named Sunday, whose true nature is worse than Syme could ever have imagined .",
+      "price": 4.88,
+      "poster": " ",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    }
+  ],
+  "orders": [
+    {
+      "itemsInCart": [
+        {
+          "id": 10002,
+          "name": "East of Eden by John Steinbeck",
+          "overview": "East of Eden is a novel by American author and Nobel Prize winner John Steinbeck. Published in September 1952, the work is regarded by many to be Steinbeck's most ambitious novel and by Steinbeck himself to be his magnum opus.",
+          "long_description": "East of Eden, novel by John Steinbeck, published in 1952. It is a symbolic re-creation of the biblical story of Cain and Abel woven into a history of California’s Salinas Valley. With East of Eden Steinbeck hoped to reclaim his standing as a major novelist, but his broad depictions of good and evil come at the expense of subtlety in characterization and plot and it was not a critical success. Spanning the period between the American Civil War and the end of World War I, the novel highlights the conflicts of two generations of brothers, the first being the kind, gentle Adam Trask and his wild brother Charles. Adam eventually marries Cathy Ames, an evil, manipulative, and beautiful prostitute; she betrays him, joining Charles on the very night of their wedding. Later, after giving birth to twin boys, she shoots Adam and leaves him to return to her former profession. In the shadow of this heritage Adam raises their sons, the fair-haired, winning, yet intractable Aron and the dark, clever Caleb. This second generation of brothers vie for their father’s approval. In bitterness Caleb reveals the truth about their mother to Aron, who then joins the army and is killed in France.",
+          "price": 8.3,
+          "poster": " ",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 0,
+          "best_seller": true
+        },
+        {
+          "id": 10001,
+          "name": "I Know Why The Caged Bird Sings by Maya Angelou",
+          "overview": "I Know Why the Caged Bird Sings, the first of seven autobiographical works by American writer Maya Angelou, published in 1969. The book chronicles her life from age 3 through age 16, recounting an unsettled and sometimes traumatic childhood that included rape and racism. It became one of the most widely read and taught books written by an African American woman.",
+          "long_description": "The prologue describes an event in which Angelou, as a small child, is reciting a poem in church. Feeling ugly because she imagined in vain that the dress her grandmother made her would be so pretty that she would be seen as a beautiful white child, she forgets the poem and then wets her pants as she flees the church in embarrassment. The story begins in 1931, as Maya, age three, and her elder brother, Bailey, are sent to Stamps, Arkansas, to live with their paternal grandmother, whom they call Momma, after their parents’ breakup. Momma owns the only store in the African American part of town. The children settle into life with Momma, helping her at the store and learning to read and do arithmetic. One night a former sheriff warns Momma to hide her disabled son because white men are planning revenge after a Black man “messed with” a white woman. Later a group of young white girls ridicule Momma while she stands, dignified and unmoving, outside the store. When the Great Depression hits, Momma keeps the store from going under by allowing customers to trade their rations for goods. One Christmas, Maya and Bailey receive gifts from their parents, whom they assumed to be dead. A year later their father, Daddy Bailey, arrives in a fancy car, and he takes Maya and Bailey to St. Louis to live with their mother, the beautiful Vivian.",
+          "price": 8.34,
+          "poster": " ",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 10,
+          "best_seller": false
+        }
+      ],
+      "total_paid": 16.64,
+      "quantity": 2,
+      "user": {
+        "name": "test user",
+        "email": "test@mail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$VYtB1p.GgBl8Qj3OkKwt0OBIJwknY8e7MhDia0Y5fdyAmynJs24aS",
+      "name": "test user",
+      "id": 1
+    }
+  ]
+}
