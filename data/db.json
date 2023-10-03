@@ -283,6 +283,12 @@
       "password": "$2a$10$VYtB1p.GgBl8Qj3OkKwt0OBIJwknY8e7MhDia0Y5fdyAmynJs24aS",
       "name": "test user",
       "id": 1
+    },
+    {
+      "email": "guestuserX@mail.com",
+      "password": "$2a$10$VYtB1p.GgBl8Qj3OkKwt0OBIJwknY8e7MhDia0Y5fdyAmynJs24aS",
+      "name": "test user",
+      "id": 2
     }
   ]
 }
